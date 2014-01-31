@@ -214,3 +214,68 @@ textarea[contenteditable] {
        only screen and (min-resolution: 144dpi) {
     /* Style adjustments for viewports that meet the condition */
 }
+/*my additions to the first project: video*/
+.style1 {
+	font-family: "Adobe Garamond Pro";
+	font-size: 24px;
+	color: #495561;
+	text-align: center;
+	background-color: #9CBCD5;
+}
+.style2 {
+	font-family: "Adobe Garamond Pro";
+	font-size: 18px;
+	color: white;
+	text-align: left;
+}
+#wrapper {
+	background-color: #46719C;
+	height: auto;
+	width: 100%;
+}
+#wrapper #cont {
+	background-color: #9CBCD5;
+	height: auto;
+	width: 65%;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+#wrapper #cont #greetings {
+	background-color: #9CBCD5;
+	height: 100px;
+	width: auto;
+	margin-bottom: 20px;
+}
+#wrapper #cont #title {
+	background-color: #243D50;
+	height: 40px;
+	width: 95%;
+	padding-left: 5%;
+}
+#wrapper #cont #videoPic {
+	background-color: blue;
+	height: 250px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+* {
+	margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
